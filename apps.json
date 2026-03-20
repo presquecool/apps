@@ -301,6 +301,31 @@
       ]
     },
     {
+      "id": "marvel-archive",
+      "name": "Marvel Archive",
+      "subtitle": "The Marvel Comics catalog, year by year",
+      "description": "Unofficial archive of 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators (1965-2025).",
+      "longDescription": "Marvel Archive is an unofficial static archive cataloging 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators from 1965 to 2025. Browse by year, series, or creator. Full-text search powered by Pagefind. Data sourced from the defunct Marvel Developer API, preserved for research and educational purposes.",
+      "icon": "https://presque.cool/marvel-archive/icons/icon-512.png",
+      "iconEmoji": "\ud83e\uddb8",
+      "category": ["web", "entertainment", "reference"],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/presquecool/marvel-archive",
+      "homepage": "https://presque.cool/marvel-archive/",
+      "language": "TypeScript",
+      "features": [
+        "30,000+ comic issues indexed",
+        "3,900+ series, 4,300+ creators",
+        "Coverage from 1965 to 2025",
+        "Browse by year, series, or creator",
+        "Full-text search powered by Pagefind",
+        "Bilingual interface (EN/FR)",
+        "Data from the defunct Marvel Developer API",
+        "PWA with offline support"
+      ]
+    },
+    {
       "id": "neon-gen",
       "name": "NEON:GEN",
       "subtitle": "Evangelion-style episode title cards",

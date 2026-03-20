@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text
+
+package-lock.json linguist-generated=true
+pnpm-lock.yaml linguist-generated=true
+
+# Dotfiles (e.g. .gitignore, .prettierignore, .htaccess)
+.* text eol=lf

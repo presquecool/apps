@@ -9,7 +9,7 @@ This repo hosts the `apps.json` file that declares all Presque Cool apps to WVW.
 ## How it works
 
 1. `apps.json` follows the [WVW apps schema](https://wvw.dev/apps.schema.json)
-2. This repo is registered in [wvw.dev/stores.json](https://github.com/nicedoc/wvw.dev/blob/master/stores.json)
+2. This repo is registered in [wvw.dev/stores.json](https://github.com/f/wvw.dev/blob/master/stores.json)
 3. WVW pulls `apps.json` from this repo on a regular cycle
 
 ## Adding or updating an app
@@ -36,4 +36,4 @@ When `icon` is `null`, WVW auto-generates a skeuomorphic icon using the `iconEmo
 
 - Store: [presque.cool](https://presque.cool/)
 - WVW: [wvw.dev](https://wvw.dev/)
-- Distribution spec: [DISTRIBUTE.md](https://github.com/nicedoc/wvw.dev/blob/master/DISTRIBUTE.md)
+- Distribution spec: [DISTRIBUTE.md](https://github.com/f/wvw.dev/blob/master/DISTRIBUTE.md)

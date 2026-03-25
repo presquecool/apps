@@ -397,30 +397,6 @@
       ]
     },
     {
-      "id": "oniropolis",
-      "name": "Oniropolis",
-      "subtitle": "An oneiric encyclopedia of Paris",
-      "description": "An oneiric encyclopedia of Paris. Lose yourself in the streets of a city that only exists in dreams.",
-      "longDescription": "Oniropolis is an oneiric encyclopedia of Paris. Lose yourself in the streets of a city that only exists in dreams. Explore imaginary places, discover the lore of three great families, and let yourself drift through a city that exists nowhere.",
-      "icon": "https://presque.cool/oniropolis/icons/icon-512.png",
-      "category": ["web", "entertainment", "books"],
-      "platform": "Web",
-      "price": "Free",
-      "github": "https://github.com/presquecool/oniropolis",
-      "homepage": "https://presque.cool/oniropolis/",
-      "language": "TypeScript",
-      "features": [
-        "Non-linear exploratory navigation",
-        "Dynamic entries for locations, characters, objects, and concepts",
-        "Persistent journey tracker (Journal, Collection, Passport)",
-        "Procedural content orchestration",
-        "Interactive HUD (Info Panel)",
-        "Inventory system for collected items",
-        "Bilingual (EN/FR)",
-        "PWA with offline support"
-      ]
-    },
-    {
       "id": "orbital-drift",
       "name": "Orbital Drift",
       "subtitle": "Sci-fi landscapes with ambient radio",

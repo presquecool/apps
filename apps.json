@@ -377,9 +377,9 @@
     {
       "id": "nexus",
       "name": "Nexus",
-      "subtitle": "Tile-based strategy game for two",
-      "description": "Tile-based strategy game for two players. Build networks, place nodes, and connect edges to win.",
-      "longDescription": "Nexus is a tile-based strategy game for two players. Build networks by placing nodes and connecting edges on a shared board. Outmaneuver your opponent by creating longer chains and controlling key positions. Simple rules, deep strategy.",
+      "subtitle": "Path-building strategy game for two",
+      "description": "Path-building strategy game for two players. Build networks, place nodes, and connect edges to win.",
+      "longDescription": "Nexus is a path-building strategy game for two players. Build networks by placing nodes and connecting edges on a shared board. Outmaneuver your opponent by creating longer chains and controlling key positions. Simple rules, deep strategy.",
       "icon": "https://presque.cool/nexus/icons/icon-512.png",
       "category": ["web", "games"],
       "platform": "Web",

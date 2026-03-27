@@ -38,3 +38,12 @@ tmpclaude-*
 
 # Project specific
 package-lock.json
+
+# sanitize baseline
+.mcp.json
+.claude/
+config.json
+
+# allow OG config files
+!og/config.json
+!**/og/config.json

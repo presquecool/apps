@@ -1,0 +1,24 @@
+{
+  "id": "clack",
+  "name": "Clack///",
+  "subtitle": "Turn any screen into a retro split-flap display",
+  "description": "Turn any screen into a retro split-flap display. Send messages from your phone to a TV or monitor over WebRTC.",
+  "longDescription": "Clack/// turns any screen into a retro split-flap display. Open the display on a TV or monitor, connect your phone as a remote control, and send messages that flip into place with authentic mechanical animations and sound effects. Powered by WebRTC peer-to-peer connections — no server, no account.",
+  "icon": "https://presque.cool/clack/icons/icon-512.png",
+  "category": ["web", "entertainment", "utilities"],
+  "platform": "Web",
+  "requirements": "Any modern browser",
+  "price": "Free",
+  "github": "https://github.com/presquecool/flappyboards",
+  "homepage": "https://presque.cool/clack/",
+  "language": "TypeScript",
+  "features": [
+    "Split-flap display with mechanical flip animations",
+    "Phone-to-TV remote control via WebRTC (PeerJS)",
+    "Authentic clack sound effects",
+    "Configurable flip speed and stagger delay",
+    "TV mode with wake lock and multiplayer sync",
+    "Bilingual (EN/FR)",
+    "PWA with offline support"
+  ]
+}

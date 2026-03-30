@@ -7,17 +7,50 @@
     "github": "https://github.com/presquecool"
   },
   "categories": [
-    { "id": "web", "name": "Web Apps" },
-    { "id": "games", "name": "Games" },
-    { "id": "entertainment", "name": "Entertainment" },
-    { "id": "utilities", "name": "Utilities" },
-    { "id": "graphics-design", "name": "Graphics & Design" },
-    { "id": "lifestyle", "name": "Lifestyle" },
-    { "id": "productivity", "name": "Productivity" },
-    { "id": "food-drink", "name": "Food & Drink" },
-    { "id": "education", "name": "Education" },
-    { "id": "reference", "name": "Reference" },
-    { "id": "books", "name": "Books" }
+    {
+      "id": "web",
+      "name": "Web Apps"
+    },
+    {
+      "id": "games",
+      "name": "Games"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment"
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities"
+    },
+    {
+      "id": "graphics-design",
+      "name": "Graphics & Design"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "food-drink",
+      "name": "Food & Drink"
+    },
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "reference",
+      "name": "Reference"
+    },
+    {
+      "id": "books",
+      "name": "Books"
+    }
   ],
   "apps": [
     {
@@ -29,6 +62,7 @@
       "icon": "https://presque.cool/a-flower-a-day/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/a-flower-a-day",
       "homepage": "https://presque.cool/a-flower-a-day/",
@@ -51,6 +85,7 @@
       "icon": "https://presque.cool/adulthood-simulator/icons/icon-512.png",
       "category": ["web", "entertainment", "games"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/adulthood-simulator",
       "homepage": "https://presque.cool/adulthood-simulator/",
@@ -73,6 +108,7 @@
       "icon": "https://presque.cool/caravan-of-sidonia/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/caravan-of-sidonia",
       "homepage": "https://presque.cool/caravan-of-sidonia/",
@@ -96,6 +132,7 @@
       "icon": "https://presque.cool/cosmographe/icons/icon-512.png",
       "category": ["web", "entertainment", "education"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/cosmographe",
       "homepage": "https://presque.cool/cosmographe/",
@@ -119,6 +156,7 @@
       "icon": "https://presque.cool/council-of-steves/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/council-of-steves",
       "homepage": "https://presque.cool/council-of-steves/",
@@ -144,6 +182,7 @@
       "icon": "https://presque.cool/since/icons/icon-512.png",
       "category": ["web", "utilities", "productivity"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/days-since",
       "homepage": "https://presque.cool/since/",
@@ -168,6 +207,7 @@
       "icon": "https://presque.cool/dice/icons/icon-512.png",
       "category": ["web", "games", "utilities"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/dice-roller",
       "homepage": "https://presque.cool/dice/",
@@ -192,6 +232,7 @@
       "icon": "https://presque.cool/dot365/icons/icon-512.png",
       "category": ["web", "utilities", "lifestyle"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/dot365",
       "homepage": "https://presque.cool/dot365/",
@@ -215,6 +256,7 @@
       "icon": "https://presque.cool/dune-of-sidonia/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/dune-of-sidonia",
       "homepage": "https://presque.cool/dune-of-sidonia/",
@@ -239,6 +281,7 @@
       "icon": "https://presque.cool/grid4/icons/icon-512.png",
       "category": ["web", "games"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/grid4",
       "homepage": "https://presque.cool/grid4/",
@@ -264,6 +307,7 @@
       "icon": "https://presque.cool/growing-everyday/icons/icon-512.png",
       "category": ["web", "entertainment", "lifestyle"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/growing-everyday",
       "homepage": "https://presque.cool/growing-everyday/",
@@ -287,6 +331,7 @@
       "icon": "https://presque.cool/kao-z/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/icon-z",
       "homepage": "https://presque.cool/kao-z/",
@@ -311,6 +356,7 @@
       "icon": "https://presque.cool/keyb60/icons/icon-512.png",
       "category": ["web", "games", "utilities"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/k60",
       "homepage": "https://presque.cool/keyb60/",
@@ -334,9 +380,9 @@
       "description": "Unofficial archive of 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators (1965-2025).",
       "longDescription": "Marvel Archive is an unofficial static archive cataloging 30,000+ Marvel Comics issues, 3,900+ series, and 4,300+ creators from 1965 to 2025. Browse by year, series, or creator. Full-text search powered by Pagefind. Data sourced from the defunct Marvel Developer API, preserved for research and educational purposes.",
       "icon": "https://presque.cool/marvel-archive/icons/icon-512.png",
-      "iconEmoji": "\ud83e\uddb8",
       "category": ["web", "entertainment", "reference"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/marvel-archive",
       "homepage": "https://presque.cool/marvel-archive/",
@@ -361,6 +407,7 @@
       "icon": "https://presque.cool/neon-gen/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/neon-gen",
       "homepage": "https://presque.cool/neon-gen/",
@@ -383,6 +430,7 @@
       "icon": "https://presque.cool/nexus/icons/icon-512.png",
       "category": ["web", "games"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/nexus",
       "homepage": "https://presque.cool/nexus/",
@@ -405,6 +453,7 @@
       "icon": "https://presque.cool/orbital-drift/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/orbital-drift",
       "homepage": "https://presque.cool/orbital-drift/",
@@ -430,6 +479,7 @@
       "icon": "https://presque.cool/pokecodex/icons/icon-512.png",
       "category": ["web", "entertainment", "reference"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/pokecodex",
       "homepage": "https://presque.cool/pokecodex/",
@@ -453,6 +503,7 @@
       "icon": "https://presque.cool/radial-clock/icons/icon-512.png",
       "category": ["web", "utilities", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/radial-clock",
       "homepage": "https://presque.cool/radial-clock/",
@@ -474,6 +525,7 @@
       "icon": "https://presque.cool/seedmoji/icons/icon-512.png",
       "category": ["web", "utilities", "entertainment"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/seedmoji",
       "homepage": "https://presque.cool/seedmoji/",
@@ -498,6 +550,7 @@
       "icon": "https://presque.cool/spin-eat/icons/icon-512.png",
       "category": ["web", "food-drink", "entertainment"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/spin-eat",
       "homepage": "https://presque.cool/spin-eat/",
@@ -522,6 +575,7 @@
       "icon": "https://starwarsavatar.com/icons/icon-512.png",
       "category": ["web", "entertainment", "graphics-design"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/starwarsavatar",
       "homepage": "https://starwarsavatar.com/",
@@ -547,6 +601,7 @@
       "icon": "https://presque.cool/starwarscountdown/icons/icon-512.png",
       "category": ["web", "entertainment", "utilities"],
       "platform": "Web",
+      "requirements": "Any modern browser",
       "price": "Free",
       "github": "https://github.com/presquecool/starwarscountdown",
       "homepage": "https://presque.cool/starwarscountdown/",

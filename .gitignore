@@ -1,4 +1,4 @@
-# Dependencies
+﻿# Dependencies
 node_modules/
 
 # Build output
@@ -47,3 +47,7 @@ config.json
 # allow OG config files
 !og/config.json
 !**/og/config.json
+# Cache
+.cache/
+.eslintcache
+.worktrees/

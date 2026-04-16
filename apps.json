@@ -571,6 +571,31 @@
       ]
     },
     {
+      "id": "slide-sorcery",
+      "name": "Slide & Sorcery",
+      "subtitle": "4x4 dungeon crawler inspired by 2048",
+      "description": "A 4x4 grid dungeon crawler inspired by 2048. Every tile slide triggers combat, combos, and survival decisions.",
+      "longDescription": "Slide & Sorcery is a 4x4 grid dungeon crawler inspired by 2048 and Threes. One swipe moves every tile at once, chaining explosions, counter-attacks, and combo streaks. Between runs, collected gold can buy one blessing for the next run (starter bomb, starter sword, +1 max HP, +10% combo). The game uses a pure TypeScript engine decoupled from React, procedural audio via Web Audio API, and a pity system to smooth RNG spikes.",
+      "icon": "https://presque.cool/slide-sorcery/icons/icon-192.png",
+      "category": ["web", "games"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/slide-n-sorcery",
+      "homepage": "https://presque.cool/slide-sorcery/",
+      "language": "TypeScript",
+      "features": [
+        "4x4 swipe-based dungeon crawler loop",
+        "Pure engine in src/engine (no React imports)",
+        "Combo and streak system with score and gold rewards",
+        "Roguelite blessings between runs",
+        "Pity system for food/coin/enemy spawn balancing",
+        "Procedural audio with Web Audio API (no audio files)",
+        "Bilingual (EN/FR)",
+        "PWA with offline support"
+      ]
+    },
+    {
       "id": "spin-eat",
       "name": "SpinEat",
       "subtitle": "Spin the wheel, choose your meal",

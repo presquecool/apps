@@ -695,5 +695,33 @@
         "PWA with offline support"
       ]
     }
+    {
+      "id": "voidpixel",
+      "name": "VOID PIXEL",
+      "subtitle": "Procedural deep space pixel planet generator",
+      "description": "Procedural pixel planet generator in WebGL. 12 types, custom palette, PNG/GIF/spritesheet export — a faithful port of Deep-Fold's Godot PixelPlanets.",
+      "longDescription": "VOID PIXEL is a procedural pixel planet generator powered by WebGL shaders, faithfully ported from Deep-Fold's Godot PixelPlanets. Generate unique pixel planets across 12 types — terran, ice world, lava world, gas giant, star, black hole, galaxy, and more. Customize palette, pixel size, dithering, rotation, lighting, zoom, and layer visibility. Export as PNG, animated GIF, or spritesheet. Planet name generator, undo/redo, parametric rings, and fullscreen support included.",
+      "icon": "https://presque.cool/voidpixel/icons/icon-512.png",
+      "category": ["web", "entertainment"],
+      "platform": "Web",
+      "requirements": "Any modern browser with WebGL support",
+      "price": "Free",
+      "github": "https://github.com/presquecool/voidpixel",
+      "homepage": "https://presque.cool/voidpixel/",
+      "language": "TypeScript",
+      "features": [
+        "12 planet types: terran (wet/dry), islands, ice world, lava world, no atmosphere, 2 gas giant variants, star, asteroid, black hole, galaxy",
+        "WebGL/GLSL shaders ported pixel-faithfully from Deep-Fold's Godot project",
+        "Customizable palette, pixel size, dithering, rotation speed, and lighting",
+        "Parametric planetary ring system",
+        "Layer visibility panel for per-shader control",
+        "Planet name and designation generator",
+        "Export as PNG, animated GIF, or spritesheet",
+        "Undo/redo, zoom, fullscreen, keyboard shortcuts",
+        "Save slots with local persistence",
+        "Bilingual (EN/FR)",
+        "PWA with offline support"
+      ]
+    }
   ]
 }

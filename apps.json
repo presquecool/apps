@@ -647,6 +647,32 @@
       ]
     },
     {
+      "id": "starwarsbinoculars",
+      "name": "Star Wars Binoculars",
+      "subtitle": "Star Wars HUD overlay on your live camera feed",
+      "description": "Real-time Star Wars binoculars HUD overlay on your mobile camera feed. Animated clip-path borders, scrolling GPS ticker, clock, and FPS. Inspired by The Mandalorian S01E01.",
+      "longDescription": "Star Wars Binoculars overlays a faithful HUD inspired by the binoculars seen in The Mandalorian S01E01 on top of your device's live camera feed. Features animated augmented-ui clip-path borders, a dynamic tracking ticker with GPS coordinates, clock and FPS, language switching, Screen Wake Lock support, and a capture gallery to save and share screenshots.",
+      "icon": "https://presque.cool/starwarsbinoculars/icons/icon-512.png",
+      "category": ["web", "entertainment", "utilities"],
+      "platform": "Web",
+      "requirements": "Any modern browser with camera access",
+      "price": "Free",
+      "github": "https://github.com/presquecool/starwarsbinoculars",
+      "homepage": "https://presque.cool/starwarsbinoculars/",
+      "language": "TypeScript",
+      "features": [
+        "Live camera feed with HUD overlay",
+        "Scrolling ticker: GPS coordinates, clock, FPS",
+        "Front/back camera switching",
+        "Capture gallery with save slots",
+        "Share captured frames via URL",
+        "Screen Wake Lock support",
+        "Landscape orientation lock",
+        "Bilingual (EN/FR)",
+        "PWA with offline support"
+      ]
+    },
+    {
       "id": "starwarscountdown",
       "name": "Star Wars Countdown",
       "subtitle": "Sci-fi countdown timer",

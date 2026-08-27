@@ -1,0 +1,6 @@
+# Deploy config
+DEPLOY_STATUS="paused"
+
+# Agent profile (see _docs/standards/)
+AGENT_DOMAIN="app"
+AGENT_STACK="vanilla"

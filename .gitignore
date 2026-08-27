@@ -54,3 +54,6 @@ config.json
 
 # Socle commun du portefeuille
 public/icons/og-image.jpg
+
+# Registre npm privé : un .npmrc porte un jeton, jamais un dépôt.
+.npmrc

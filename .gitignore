@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 
 # Build output
@@ -51,3 +51,6 @@ config.json
 .cache/
 .eslintcache
 .worktrees/
+
+# Socle commun du portefeuille
+public/icons/og-image.jpg

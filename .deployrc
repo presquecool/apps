@@ -1,5 +1,7 @@
 # Deploy config
 DEPLOY_STATUS="paused"
+DEPLOY_HOST="poulpe"
+DEPLOY_TYPE="static"
 
 # Agent profile (see _docs/standards/)
 AGENT_DOMAIN="app"

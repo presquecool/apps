@@ -66,6 +66,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/a-flower-a-day",
       "homepage": "https://presque.cool/a-flower-a-day/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/a-flower-a-day/daily-flower.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Daily unique flower seeded by date",
@@ -89,6 +92,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/adulthood-simulator",
       "homepage": "https://presque.cool/adulthood-simulator/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/adulthood-simulator/to-do-list.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Infinite to-do list: each completed task generates a new one",
@@ -97,6 +103,32 @@
         "Share progress via social media",
         "Bilingual (EN/FR)",
         "PWA with offline support"
+      ]
+    },
+    {
+      "id": "botfactory",
+      "name": "botfactory",
+      "subtitle": "16 × 16 pixel-art robot builder",
+      "description": "Assemble a robot from five parts, give it an expression, and export it for a game or an avatar.",
+      "longDescription": "Choose a body, head, eyes, mouth, and accessory. Try different palettes and idle animations, or lock the parts you want to keep and randomize the rest. Export a transparent PNG, a looping GIF, or a sprite sheet with the duration of each frame.",
+      "icon": "https://presque.cool/botfactory/icons/icon-512.png",
+      "category": ["web", "graphics-design"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/botfactory",
+      "homepage": "https://presque.cool/botfactory/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/botfactory/robot-editor.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/botfactory/mobile-robot-editor.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Five customizable robot parts",
+        "Part locks and randomization",
+        "Expressions and idle animations",
+        "PNG, GIF, and sprite-sheet exports",
+        "Shareable robot links"
       ]
     },
     {
@@ -112,6 +144,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/caravan-of-sidonia",
       "homepage": "https://presque.cool/caravan-of-sidonia/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/caravan-of-sidonia/mountain-landscape.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Procedural mountain, sky, star, meteor, and sun generation",
@@ -121,6 +156,31 @@
         "Integrated radio stations (Dreamscapes, Chillwave, Lofi)",
         "Bilingual (EN/FR)",
         "PWA with offline support"
+      ]
+    },
+    {
+      "id": "chromaflow",
+      "name": "Chromaflow",
+      "subtitle": "A daily light-routing puzzle",
+      "description": "Place mirrors, splitters, and mixers to light each target with a beam of its exact color.",
+      "longDescription": "A new grid opens each day. Route the beams to every target and compare the cost of your circuit with the reference solution. Revisit earlier puzzles and improve your best scores.",
+      "icon": "https://presque.cool/chromaflow/icons/icon-512.png",
+      "category": ["web", "games"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/chromaflow",
+      "homepage": "https://presque.cool/chromaflow/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/chromaflow/daily-light-puzzle.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/chromaflow/mobile-daily-puzzle.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Mirrors, beam splitters, and color mixers",
+        "Daily puzzles with past days still playable",
+        "Scores based on the cost of placed pieces",
+        "Saved boards and best scores"
       ]
     },
     {
@@ -136,6 +196,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/cosmographe",
       "homepage": "https://presque.cool/cosmographe/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/cosmographe/constellation-editor.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Seed-based procedural star field",
@@ -160,6 +223,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/council-of-steves",
       "homepage": "https://presque.cool/council-of-steves/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/council-of-steves/gull-generator.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Procedural SVG bird generation with deterministic seeds",
@@ -186,6 +252,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/days-since",
       "homepage": "https://presque.cool/since/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/days-since/event-tracker.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Track days since or until events",
@@ -211,6 +280,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/dice-roller",
       "homepage": "https://presque.cool/dice/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/dice-roller/dice-result.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/dice-roller/mobile-dice-result.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Full dice notation parser (d4-d100)",
@@ -221,6 +294,31 @@
         "Dice presets for quick access",
         "Bilingual (EN/FR)",
         "PWA with offline support"
+      ]
+    },
+    {
+      "id": "doodle-me",
+      "name": "Doodle Me",
+      "subtitle": "Hand-drawn portrait maker",
+      "description": "Pick a head, clothes, glasses, and an accessory or cat from Humation artwork by @mnmyw.",
+      "longDescription": "Assemble a bust portrait from hand-drawn parts by @mnmyw. Set the colors of the linework, hair, skin, clothes, and background. Save your favorites on the device, share the portrait by link, or download it as a PNG.",
+      "icon": "https://presque.cool/doodle-me/icons/icon-512.png",
+      "category": ["web", "graphics-design", "entertainment"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/doodle-me",
+      "homepage": "https://presque.cool/doodle-me/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/doodle-me/portrait-editor.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/doodle-me/mobile-portrait-editor.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Hand-drawn Humation artwork by @mnmyw",
+        "Five customizable colors",
+        "Local favorites and shareable links",
+        "PNG export with an optional transparent background"
       ]
     },
     {
@@ -236,6 +334,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/dot365",
       "homepage": "https://presque.cool/dot365/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/dot365/time-grids.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "6 time scales: year, month, week, day, hour, minute",
@@ -260,6 +361,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/dune-of-sidonia",
       "homepage": "https://presque.cool/dune-of-sidonia/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/dune-of-sidonia/desert-landscape.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Procedural desert and sky generation",
@@ -285,6 +389,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/grid4",
       "homepage": "https://presque.cool/grid4/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/grid4/four-by-four-board.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Match 4+ identical adjacent cards to score",
@@ -311,6 +418,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/growing-everyday",
       "homepage": "https://presque.cool/growing-everyday/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/growing-everyday/growing-garden.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "One new flower per year since 2023",
@@ -335,6 +445,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/icon-z",
       "homepage": "https://presque.cool/kao-z/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/kao-z/avatar-editor.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "828 SVG elements across 12 customization categories",
@@ -360,6 +473,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/k60",
       "homepage": "https://presque.cool/keyb60/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/keyb60/typing-test.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/keyb60/mobile-typing-test.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Configurable timer (15s/30s/60s/120s)",
@@ -371,6 +488,57 @@
         "Share results via native share or clipboard",
         "Bilingual (EN/FR)",
         "PWA with offline support"
+      ]
+    },
+    {
+      "id": "littlecompanion",
+      "name": "littlecompanion",
+      "subtitle": "An animated animal avatar from a name",
+      "description": "Enter a name, choose from 15 species, and give your companion an expression, accessory, and background.",
+      "longDescription": "The same name and choices reproduce the same companion. Pick a frame and watch your animal blink, stretch, or react to a tap. Keep your companions on the device, pass them on with a link, or export a PNG or animated GIF.",
+      "icon": "https://presque.cool/littlecompanion/icons/icon-512.png",
+      "category": ["web", "graphics-design", "entertainment"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/littlecompanion",
+      "homepage": "https://presque.cool/littlecompanion/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/littlecompanion/companion-editor.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/littlecompanion/mobile-companion-editor.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "15 animal species",
+        "Custom expressions, accessories, backgrounds, and frames",
+        "Animated and interactive previews",
+        "Local collection and reproducible share links",
+        "PNG and animated GIF exports"
+      ]
+    },
+    {
+      "id": "margin-doodles",
+      "name": "margin doodles",
+      "subtitle": "Ballpoint doodles on notebook paper",
+      "description": "Open a page of faces or imaginary specimens. Click a single doodle to redraw it, or start a fresh page.",
+      "longDescription": "Two digital notebooks fill up with ballpoint sketches. One holds faces, the other invented animals and plants. Redraw any individual sketch and save the finished page as a PNG or share it by link.",
+      "icon": "https://presque.cool/margin-doodles/icons/icon-512.png",
+      "category": ["web", "graphics-design", "entertainment"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/margin-doodles",
+      "homepage": "https://presque.cool/margin-doodles/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/margin-doodles/01-faces-notebook.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/margin-doodles/02-specimens-notebook.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Separate notebooks for faces and specimens",
+        "Generated ballpoint strokes and ruled paper",
+        "Redraw one doodle or the whole page",
+        "PNG export and shareable page links"
       ]
     },
     {
@@ -386,6 +554,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/marvel-archive",
       "homepage": "https://presque.cool/marvel-archive/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/marvel-archive/01-comics-catalog.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "30,000+ comic issues indexed",
@@ -411,6 +582,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/neon-gen",
       "homepage": "https://presque.cool/neon-gen/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/neon-gen/title-card-editor.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Episode title customization: Japanese (kanji/kana) and English",
@@ -434,6 +608,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/nexus",
       "homepage": "https://presque.cool/nexus/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/nexus/strategy-board.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Two-player turn-based tile placement on 7x9 grid",
@@ -457,6 +634,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/orbital-drift",
       "homepage": "https://presque.cool/orbital-drift/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/orbital-drift/cockpit.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Seed-based procedural sci-fi landscapes",
@@ -483,6 +663,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/pokecodex",
       "homepage": "https://presque.cool/pokecodex/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/pokecodex/01-pokedex.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/pokecodex/mobile-pokemon-profile.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Browse all Pokemon with infinite scroll",
@@ -507,6 +691,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/radial-clock",
       "homepage": "https://presque.cool/radial-clock/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/radial-clock/concentric-clock.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "7 concentric time rings (seconds to year)",
@@ -529,6 +716,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/seedmoji",
       "homepage": "https://presque.cool/seedmoji/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/seedmoji/seeded-avatar.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Deterministic: same seed always produces the same face",
@@ -554,6 +744,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/seedoku",
       "homepage": "https://presque.cool/seedoku/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/seedoku/daily-puzzle.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/seedoku/mobile-daily-puzzle.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Daily puzzle, same for all players",
@@ -583,6 +777,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/slide-n-sorcery",
       "homepage": "https://presque.cool/slide-sorcery/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/slide-sorcery/dungeon-board.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "4x4 swipe-based dungeon crawler loop",
@@ -593,6 +790,31 @@
         "Procedural audio with Web Audio API (no audio files)",
         "Bilingual (EN/FR)",
         "PWA with offline support"
+      ]
+    },
+    {
+      "id": "spectrum-clock",
+      "name": "Spectrum Clock",
+      "subtitle": "Four gradient dials, from day to year",
+      "description": "Read how far the day, week, month, or year has progressed from a single hand on each dial.",
+      "longDescription": "The day dial moves through colors from midnight to noon and back, while the year dial follows the seasons. Show one cycle or all four together, with labels or just the gradients and hands.",
+      "icon": "https://presque.cool/spectrum-clock/icons/icon-512.png",
+      "category": ["web", "utilities", "lifestyle"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/spectrum-clock",
+      "homepage": "https://presque.cool/spectrum-clock/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/spectrum-clock/gradient-dials.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/spectrum-clock/mobile-gradient-dials.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Day, week, month, and year dials",
+        "Single clock and four-clock layouts",
+        "Optional labels",
+        "Light and dark themes"
       ]
     },
     {
@@ -608,6 +830,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/spin-eat",
       "homepage": "https://presque.cool/spin-eat/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/spin-eat/meal-wheel.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/spin-eat/mobile-meal-wheel.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Physics-based spinning wheel animation",
@@ -633,6 +859,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/starwarsavatar",
       "homepage": "https://starwarsavatar.com/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/starwarsavatar/character-editor.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/starwarsavatar/mobile-character-editor.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "4 species: Human, Twi'lek, Zabrak, Mirialan",
@@ -659,6 +889,10 @@
       "price": "Free",
       "github": "https://github.com/presquecool/starwarsbinoculars",
       "homepage": "https://presque.cool/starwarsbinoculars/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/starwarsbinoculars/desert-viewfinder.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/starwarsbinoculars/mobile-desert-viewfinder.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Live camera feed with HUD overlay",
@@ -685,6 +919,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/starwarscountdown",
       "homepage": "https://presque.cool/starwarscountdown/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/starwarscountdown/countdown.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Target reticle with randomized edge patterns",
@@ -692,6 +929,31 @@
         "Animated edge toggle",
         "Blinking indicator lights",
         "Respects prefers-reduced-motion"
+      ]
+    },
+    {
+      "id": "vaultcrawl",
+      "name": "Vaultcrawl",
+      "subtitle": "An eight-level roguelike card game",
+      "description": "Spend food to play cards and gems to draw as you descend toward the dungeon Guardian.",
+      "longDescription": "Each card costs food to play, and each draw costs gems. Choose whether to spend gems to rest or resupply between levels, then face the Guardian on the eighth floor. After a win, keep descending and see how many gems you can hold on to.",
+      "icon": "https://presque.cool/vaultcrawl/icons/icon-512.png",
+      "category": ["web", "games"],
+      "platform": "Web",
+      "requirements": "Any modern browser",
+      "price": "Free",
+      "github": "https://github.com/presquecool/vaultcrawl",
+      "homepage": "https://presque.cool/vaultcrawl/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/vaultcrawl/dungeon-run.jpg",
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/vaultcrawl/mobile-dungeon-run.jpg"
+      ],
+      "language": "TypeScript",
+      "features": [
+        "Eight dungeon levels and a Guardian",
+        "Food and gem management",
+        "Camp choices and skills between levels",
+        "Endless descent after the first win"
       ]
     },
     {
@@ -707,6 +969,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/voidatlas",
       "homepage": "https://presque.cool/voidatlas/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/voidatlas/planet-profile.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "Full procedural planet: name, size, atmosphere, gravity, temperature, elements",
@@ -734,6 +999,9 @@
       "price": "Free",
       "github": "https://github.com/presquecool/voidpixel",
       "homepage": "https://presque.cool/voidpixel/",
+      "screenshots": [
+        "https://raw.githubusercontent.com/presquecool/apps/main/docs/screenshots/voidpixel/planet-editor.jpg"
+      ],
       "language": "TypeScript",
       "features": [
         "12 planet types: terran (wet/dry), islands, ice world, lava world, no atmosphere, 2 gas giant variants, star, asteroid, black hole, galaxy",

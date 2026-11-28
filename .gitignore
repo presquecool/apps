@@ -38,6 +38,7 @@ tmpclaude-*
 
 # Project specific
 package-lock.json
+/HANDOFF.md
 
 # sanitize baseline
 .mcp.json
